@@ -1,5 +1,1 @@
-# covid-analysis
-
-This project analyses covid19 dataset scraped from www.worldometers.info/coronavirus. The data in this project was for a single day only.
-
-In this project i imported the csv file into mysql workbench, where i cleaned and maniputed the data. i tried to know if there was a correlation between different cases, such as: population and total case, total test and total case, total case and total death e.t.c
+This project focuses on the analysis of a COVID-19 dataset retrieved from www.worldometers.info/coronavirus, specifically for a single day. The data was imported into MySQL Workbench, where it underwent cleaning and manipulation. The primary goal was to explore potential correlations between different variables, such as population and total cases, total tests and total cases, total cases and total deaths, among others, to gain insights into the relationships within the dataset.
